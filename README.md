@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:312E81,100:06B6D4&height=260&section=header&text=PhantomProj&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=18&animation=twinkling" width="100%" alt="PhantomProj - animated profile banner"/>
 
 <a href="https://github.com/efx-suresh7">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+PhantomProj+%F0%9F%91%8B;Python+%26+TypeScript+Developer;Building+Useful+Apps+%26+Bots;Turning+Ideas+Into+Working+Projects" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&height=50&lines=Hey%2C+I'm+PhantomProj+%F0%9F%91%8B;Python+%26+TypeScript+Developer;Building+Useful+Apps+%26+Bots;Turning+Ideas+Into+Working+Projects" alt="Animated introduction"/>
 </a>
 
 <br/>
